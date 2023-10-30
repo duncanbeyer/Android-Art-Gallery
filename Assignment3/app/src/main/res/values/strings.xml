@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Assignment 3</string>
+    <string name="search_hint">Search For...</string>
+    <string name="search_button">Search</string>
+    <string name="random_button">Random</string>
+    <string name="copy_title">Art Institute of Chicago API App</string>
+    <string name="copy_link">&#169;2023, Duncan Beyer</string>
+    <string name="copy_box0">Content Provided By:</string>
+    <string name="copy_box1">Art Institute of Chicago API</string>
+    <string name="copy_box12">https://api.artic.edu/docs/</string>
+    <string name="copy_box2">\'Cinzel\' font, free for personal and commercial use:</string>
+    <string name="copy_box3">https://fonts.google.com/specimen/Cinzel</string>
+    <string name="copy_box4">Version 1.0</string>
+    <string name="too_short_title">Search string too short</string>
+    <string name="too_short_msg">Please try a longer search string</string>
+    <string name="ok">OK</string>
+    <string name="null_title">No search results found</string>
+    <string name="null_msg1">No results found for \'</string>
+    <string name="null_msg2">\'. Please try another search string.</string>
+    <string name="net_title">NoConnectionError</string>
+    <string name="net_msg">No network connection present - cannot contact Art Institute API.</string>
+
+
+</resources>
